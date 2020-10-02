@@ -18,6 +18,7 @@ Kita buat simple API
 
 ## Kontribusi
 
+- [Optional] Fork project ini
 - Clone repo ini
 - Lakukan hal yang sama seperti kalian install project laravel
 - Buat branch baru dengan nama kalian (git checkout -b NAMA_KALIAN)

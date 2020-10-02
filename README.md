@@ -20,6 +20,7 @@ Kita buat simple API
 
 - Buat branch baru dengan nama kalian (git checkout -b NAMA_KALIAN)
 - Ubah - ubah disana sesuai dengan tasknya (Cek Issues)
+- Commit messagenya ada referensi issuesnya ya, contoh "Commit untuk issues #2"
 - Push & buat pull request
 - Tunggu konfirmasi
 - Cek profil hacktober kalian, tinggal tunggu 7 Hari untuk konfirmasi

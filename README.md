@@ -18,7 +18,7 @@ Kita buat simple API
 
 ## Kontribusi
 
-- Buat branch baru dengan nama kalian
+- Buat branch baru dengan nama kalian (git checkout -b NAMA_KALIAN)
 - Ubah - ubah disana sesuai dengan tasknya (Cek Issues)
 - Push & buat pull request
 - Tunggu konfirmasi

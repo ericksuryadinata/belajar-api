@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ControllerRegister;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -15,4 +16,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::name('api.v1.')->prefix('v1')->group(function () {
+    Route::post('/register',[ControllerRegister::class, 'store']);
 });

@@ -9,7 +9,7 @@ class Token extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['id','user_id','token'];
+    protected $fillable = ['user_id','token'];
 
     public function user()
     {
